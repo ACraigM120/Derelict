@@ -1,0 +1,2 @@
+graphics/tilegraphics/27_PipeLtM.dds
+-1.0

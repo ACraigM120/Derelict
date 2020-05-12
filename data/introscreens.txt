@@ -1,0 +1,18 @@
+4.0
+3
+graphics/stardotstar.dds
+graphics/filler.dds
+graphics/title.dds
+
+
+
+
+*********************
+This file is in the format:
+
+seconds-per-screen (how long each screen will be be shown before switching to the next one)
+num-of-intro-screens
+intro-screen-1
+intro-screen-2
+...
+intro-screen-n

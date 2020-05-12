@@ -1,0 +1,6 @@
+graphics/tilegraphics/35_GroundHog.dds
+-1.0
+15 64
+12 17
+64 47
+64 64

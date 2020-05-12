@@ -1,0 +1,7 @@
+graphics/tilegraphics/09_SideWorldD.dds
+-1.0
+0 0
+64 0
+64 43
+42 64
+0 64

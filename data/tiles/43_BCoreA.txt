@@ -1,0 +1,6 @@
+graphics/tilegraphics/43_BCoreA.dds
+-1.0
+0 0
+64 0
+64 64
+17 64

@@ -1,0 +1,5 @@
+graphics/tilegraphics/39_RMazeUp.dds
+-1.0
+0 0
+64 0
+0 64

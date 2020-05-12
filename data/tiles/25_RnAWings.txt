@@ -1,0 +1,6 @@
+graphics/tilegraphics/25_ARnAWings.dds
+5.0
+0 10
+64 10
+64 64
+0 64

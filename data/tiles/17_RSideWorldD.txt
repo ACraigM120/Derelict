@@ -1,0 +1,7 @@
+graphics/tilegraphics/17_RSideWorldD.dds
+-1.0
+0 0
+64 0
+64 64
+20 64
+0 43

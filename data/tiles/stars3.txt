@@ -1,0 +1,6 @@
+graphics/tilegraphics/stars3.dds
+-1.0
+0 0
+16 0
+16 16
+0 16

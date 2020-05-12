@@ -1,0 +1,6 @@
+graphics/tilegraphics/33_BabyBoard.dds
+-1.0
+0 10
+64 10
+64 64
+0 64

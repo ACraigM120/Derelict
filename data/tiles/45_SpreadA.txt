@@ -1,0 +1,11 @@
+ graphics/tilegraphics/45_SpreadA.dds
+-1.0
+64 0
+64 64
+15 64
+20 51
+46 32
+0 32
+0 15
+47 15
+52 4

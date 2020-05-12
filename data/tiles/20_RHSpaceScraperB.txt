@@ -1,0 +1,8 @@
+graphics/tilegraphics/20_RHSpaceScraperB.dds
+-1.0
+4 0
+64 0
+64 64
+4 64
+2 33
+

@@ -1,0 +1,6 @@
+graphics/tilegraphics/08_SideWorldC.dds
+-1.0
+0 0
+64 0
+64 64
+0 64

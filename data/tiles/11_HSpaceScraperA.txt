@@ -1,0 +1,7 @@
+graphics/tilegraphics/11_HSpaceScraperA.dds
+-1.0
+42 0
+58 64
+19 64
+0 18
+21 3

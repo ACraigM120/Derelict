@@ -1,0 +1,5 @@
+graphics/tilegraphics/37_MazeDown.dds
+-1.0
+0 1
+64 64
+0 63

@@ -1,0 +1,6 @@
+graphics/tilegraphics/06_SideWorldA.dds
+-1.0
+14 0
+64 0
+64 64
+14 15

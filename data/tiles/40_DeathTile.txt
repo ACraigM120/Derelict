@@ -1,0 +1,6 @@
+graphics/tilegraphics/40_DeathTile.dds
+-1.0
+0 32
+64 32
+64 64
+0 64

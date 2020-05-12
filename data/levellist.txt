@@ -1,0 +1,17 @@
+1
+map/level1/level1.txt
+
+
+
+
+
+
+
+*********************
+This file is in the format:
+
+number-of-levels
+file-containing-bg-info-on-level-1
+file-containing-bg-info-on-level-2
+...
+file-containing-bg-info-on-level-n

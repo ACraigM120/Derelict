@@ -1,0 +1,2 @@
+graphics/tilegraphics/48_Core.dds
+-1.0

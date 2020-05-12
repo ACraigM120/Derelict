@@ -1,0 +1,6 @@
+graphics/tilegraphics/14_RSideWorldA.dds
+-1.0
+0 0
+50 0
+50 15
+0 64

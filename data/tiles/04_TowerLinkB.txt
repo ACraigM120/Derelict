@@ -1,0 +1,6 @@
+graphics/tilegraphics/04_ATowerLinkB.dds
+2.0
+0 0
+64 0
+64 64
+0 64

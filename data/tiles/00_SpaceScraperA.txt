@@ -1,0 +1,7 @@
+graphics/tilegraphics/00_SpaceScraperA.dds
+-1.0
+0 21
+64 5
+64 44
+26 64
+16 64
