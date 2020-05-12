@@ -1,0 +1,21 @@
+242 4
+
+3
+map/level1/bgstars.txt
+map/level1/bgbuildings.txt
+map/level1/maingroundbuildings.txt
+0
+map/level1/fgstars.txt
+
+
+
+
+
+*********************
+This file is in the format:
+
+number-of-layers-for-this-level
+layer-1  (bottom-most layer)
+layer-2
+...
+layer-n  (top-most layer)

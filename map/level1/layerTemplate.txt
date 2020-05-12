@@ -1,0 +1,11 @@
+[tile size in pixels]
+
+[number of tiles]
+[path of tile 1's text file]
+[path of tile 2's text file]
+...
+[path of tile n's text file]
+
+[scroll speed] [bool - infinite scroll] [fade speed (0 for no fade)] [scale factor (1.0 for no scale)]
+[width in tiles] [height in tiles]
+[tile info - bulk of file]

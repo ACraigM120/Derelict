@@ -1,0 +1,10 @@
+[number of bg layers]
+[list of paths of bg layer files]
+
+[number of fg layers]
+[list of paths of fg layer files]
+
+
+
+note: the last bg layer listed is the 'mainground' (one the player interacts with)
+

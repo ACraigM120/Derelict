@@ -1,0 +1,20 @@
+[number of nodes in pattern sequence for enemy 0]
+[delta x] [delta y] [fire] [follow player] <-node 1
+[delta x] [delta y] [fire] [follow player] <-node 2
+...
+[delta x] [delta y] [fire] [follow player] <-node n
+
+
+[number of nodes in pattern sequence for enemy 1]
+[delta x] [delta y] [fire] [follow player] <-node 1
+[delta x] [delta y] [fire] [follow player] <-node 2
+...
+[delta x] [delta y] [fire] [follow player] <-node n
+
+...
+
+[number of nodes in pattern sequence for enemy n]
+[delta x] [delta y] [fire] [follow player] <-node 1
+[delta x] [delta y] [fire] [follow player] <-node 2
+...
+[delta x] [delta y] [fire] [follow player] <-node n
